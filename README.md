@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-html-y-css-k34k6JYoHd)
+- Live Site URL: [Live Site](https://blog-preview-card-seven-pi.vercel.app/)
 
 ## My process
 
