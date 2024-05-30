@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./blog.png)
+![](./Blog.png)
 
 ### Links
 
